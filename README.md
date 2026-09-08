@@ -3,8 +3,11 @@
 **Senior Backend Engineer** — I build systems that have to stay up.
 
 ⚙️ `Java` · `Kotlin` · `Spring` · `PostgreSQL` · `Kafka`
+
 ☁️ `AWS` · `Kubernetes` · `Terraform` · `Helm` · `CI/CD`
+
 🧩 `System Design` · `Distributed Systems` · `Event-Driven Architecture` · `DDD` · `Observability`
+
 🖥️ `TypeScript` · `React` · `Angular`
 
 ---
